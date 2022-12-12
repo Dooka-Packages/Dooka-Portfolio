@@ -20,8 +20,10 @@ UUID Generator Link - https://www.uuidgenerator.net/
 `/title @a actionbar test!`
 `/titleraw @a actionbar {"rawtext":[{"text":"test"}]}`
 
-+ Type these commands in chat and create your own personal sidebar!
+``diff
+Type these commands in chat and create your own personal sidebar!
 For more commands or to display scores on your sidebar look below.
+```
 
 ### Display Score 
 `/titleraw @a title {"rawtext":[{"text":"Balance: "},{"score":{"name":"*","objective":"money"}}]}`

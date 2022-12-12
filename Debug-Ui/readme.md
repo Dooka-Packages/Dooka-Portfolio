@@ -21,6 +21,7 @@ Can Be Used In world, Realm, Server.
 #6 Change "text": "§f[ Server Name ]", With the text you want.
 #7 Chnage "text": "§7[ New Content At Spawn! ]", With the text you want, or keep it blank.
 ```
+Replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/
 
 ### Manage UI Image
 ```info
@@ -32,11 +33,11 @@ Can Be Used In world, Realm, Server.
 #6 Copy and Paste your [ Logo/Image ] into the ^textures^ folder
 #7 Delete the sample Image and remane your [ Logo/Image ] to ^image.png^
 ```
+Replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/
 
 **NOTE** 
 
 ```diff 
 - This pack should not be replicated in any way. DONT sell this pack in any way. This debug ui addon can be added to your own pack. Make sure to add credit in the files or in your world! -
 ```
-Replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/
 

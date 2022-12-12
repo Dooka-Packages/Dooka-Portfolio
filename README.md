@@ -10,6 +10,7 @@ to download and install Dooka-Packages.
 The "Releases" tab on this page contains all the latest updates and releases for Dooka-Packages. 
 Simply navigate to the tab on the right or bottom of the page shown below and download the .mcpack files.
 ```
+`All Portfolio contnet supports 1.19.40+`
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051988373784498186/image.png)
 --- ---
 ## How to Download All Portfolio Content

@@ -13,8 +13,8 @@ Simply navigate to the tab on the right or bottom of the page shown below and do
 --- ---
 ### How to Download All Dooka-Packages/Addons Together.
 ```info
-Located the green code button at the top of this repository. This will give accces to the ability to 
-fully download the branch .Zip. In every pack file there should be a .mcpack file as well for easy setup.
+To download the branch as a .Zip file, look for the green "Code" button at the top of this repository. 
+This will give you full access to the branch, and every pack file will include a .mcpack file for easy setup.
 ```
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051990177716895836/image.png)
 

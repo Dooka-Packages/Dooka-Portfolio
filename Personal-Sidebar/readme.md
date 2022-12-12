@@ -33,4 +33,4 @@ For more commands or to display scores on your sidebar look below.
 ```diff 
 - This pack should not be replicated in any way. DONT sell this pack in any way. This debug ui addon can be added to your own pack. Make sure to add credit in the files or in your world! -
 ```
-replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/
+Replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/

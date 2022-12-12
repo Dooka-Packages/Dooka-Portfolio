@@ -1,0 +1,145 @@
+//██████╗░░█████╗░░█████╗░██╗░░██╗░█████╗░░██████╗░███████╗░██████╗
+//██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔════╝░██╔════╝██╔════╝
+//██████╔╝███████║██║░░╚═╝█████═╝░███████║██║░░██╗░█████╗░░╚█████╗░
+//██╔═══╝░██╔══██║██║░░██╗██╔═██╗░██╔══██║██║░░╚██╗██╔══╝░░░╚═══██╗
+//██║░░░░░██║░░██║╚█████╔╝██║░╚██╗██║░░██║╚██████╔╝███████╗██████╔╝
+//╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚══════╝╚═════╝░
+//{ Pack Created By Dooka }
+{
+  "namespace": "hud",
+  "hud_player_renderer": {
+    "type": "panel",
+    "anchor_from": "middle",
+    "anchor_to": "middle",
+    "size": [0, 0],
+    "controls": [
+      {
+        "hud_player": {
+          "type": "custom",
+          "renderer": "hud_player_renderer",
+          "layer": 1,
+          "animation_reset_name": "screen_animation_reset",
+          "anims": [
+            "@common.screen_exit_size_animation_push",
+            "@common.screen_exit_size_animation_pop",
+            "@common.screen_entrance_size_animation_push",
+            "@common.screen_entrance_size_animation_pop"
+          ],
+          "bindings": [
+            {
+              "binding_name": "#paper_doll_visible",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "sidebar:display_logo": {
+    // Sidebar logo identifiers main location
+    "type": "image",
+    "texture": "textures/ui/sidebar/logo",
+    "anchor_from": "right_middle",
+    "anchor_to": "right_middle",
+    "size": [75, 75],
+    "offset": [-9, -25],
+    "layer": 50
+  },
+  "sidebar:display_logo_factory": {
+    // Sidebar logo hud direction factory when run on 'title'
+    "type": "panel",
+    "factory": {
+      "name": "hud_title_text_factory",
+      "control_ids": {
+        "hud_title_text": "sidebar:display_logo@hud.sidebar:display_logo"
+      }
+    }
+  },
+  // start of title
+  "hud_title_text": {
+    "type": "panel",
+    "size": ["100%cm", "100%c"],
+    "anchor_from": "right_middle",
+    "anchor_to": "right_middle",
+    "alpha": 1.0,
+    "controls": [
+      {
+        "sidebar": {
+          "type": "panel",
+          "size": ["100%c", "100%c"],
+          "offset": [-5, 5],
+          "controls": [
+            {
+              "title_background": {
+                "type": "image",
+                "alpha": 0.45,
+                "layer": 0,
+                "size": ["100%cm", "100%c"],
+                "texture": "textures/ui/hud_tip_text_background",
+                "controls": [
+                  {
+                    "title": {
+                      "type": "label",
+                      "text": "$title_text",
+                      "anchor_from": "top_middle",
+                      "anchor_to": "top_middle",
+                      "color": "$tool_tip_text",
+                      "shadow": true,
+                      "localize": false,
+                      "font_size": "medium",
+                      "layer": 1,
+                      "alpha": 1.0
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      // start of subtitle
+      {
+        "subtitle": {
+          "type": "label",
+          "anchor_from": "middle_center",
+          "anchor_to": "middle_center",
+          "color": "$title_command_text_color",
+          "text": "#text",
+          "layer": 4,
+          "localize": true,
+          "font_size": "medium",
+          "shadow": true,
+          "alpha": 4.0,
+          "text_alignment": "center",
+          "offset": [-375, -500],
+          "bindings": [
+            {
+              "binding_name": "#hud_subtitle_text_string",
+              "binding_name_override": "#text",
+              "binding_type": "global"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "root_panel": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_front",
+        "value": {
+          // Sidebar logo panal position is stored
+          "sidebar:display_logo_factory@hud.sidebar:display_logo_factory": {} 
+        }
+      }
+    ]
+  }
+}
+//██████╗░░█████╗░░█████╗░██╗░░██╗░█████╗░░██████╗░███████╗░██████╗
+//██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔════╝░██╔════╝██╔════╝
+//██████╔╝███████║██║░░╚═╝█████═╝░███████║██║░░██╗░█████╗░░╚█████╗░
+//██╔═══╝░██╔══██║██║░░██╗██╔═██╗░██╔══██║██║░░╚██╗██╔══╝░░░╚═══██╗
+//██║░░░░░██║░░██║╚█████╔╝██║░╚██╗██║░░██║╚██████╔╝███████╗██████╔╝
+//╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚══════╝╚═════╝░
+//{ Pack Created By Dooka }

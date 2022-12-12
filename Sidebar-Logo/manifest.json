@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "§fSidebar Logo §7RP",
+      "description": "§7Dooka-Packages",
+      "uuid": "6171194d-5f15-44ea-9011-3d236194a6a8", 
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 19, 40]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "uuid": "ddaf5af9-9c33-421a-b635-61c2c3b78bae",
+        "version": [0, 0, 1]
+      }
+    ],
+    "subpacks": [
+      {
+        "folder_name": "title",
+        "name": "§fDisplays §2Logo §fon §a'/title'",
+        "memory_tier": 0
+      },
+      {
+        "folder_name": "actionbar",
+        "name": "§fDisplays §2Logo §fon §a'/actionbar'",
+        "memory_tier": 0
+      }
+    ]
+  }
+  

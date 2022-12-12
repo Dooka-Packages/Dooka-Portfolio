@@ -3,17 +3,16 @@
 ```
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051972486197166161/banner.png?width=1011&height=569)
 
-replace UUIDs in the packs ^manifest.json^
-UUID Generator Link - https://www.uuidgenerator.net/
-//
+```diff
 Personal sidebar used to display world information in a 
 better way. Display scores, tags, or gamertags on the custom 
 actionbar or title with rawtext. This is a subpack use the switcher
 in the pack settings to have 1 or 2 sidebar displays. 
+```
 
-**NOTE** This pack should not be replicated in any way.
-DONT sell this pack in any way. This debug ui addon can be added 
-to your own pack. Make sure to add credit in the files or in your world!
+replace UUIDs in the packs ^manifest.json^
+UUID Generator Link - https://www.uuidgenerator.net/
+
 
 // Display Title
 `/title @a title test!`
@@ -34,3 +33,7 @@ For more commands or to display scores on your sidebar look below.
 
 // Display Seprate Lines #
 `/titleraw @a title {"rawtext":[{"text":"Line 1"},{"text":"\nLine 2"}]}`
+
+**NOTE** This pack should not be replicated in any way.
+DONT sell this pack in any way. This debug ui addon can be added 
+to your own pack. Make sure to add credit in the files or in your world!

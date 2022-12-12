@@ -3,8 +3,10 @@ Personal Sidebar - Subpack
 ```
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051972486197166161/banner.png?width=1011&height=569)
 --- ---
-`Personal sidebar used to display world information in a better way. Display scores, tags, or gamertags on the custom 
-actionbar or title with rawtext. This is a subpack use the switcher in the pack settings to have 1 or 2 sidebar displays.`
+```diff
+Personal sidebar used to display world information in a better way. Display scores, tags, or gamertags on the custom 
+actionbar or title with rawtext. This is a subpack use the switcher in the pack settings to have 1 or 2 sidebar displays.
+```
 
 replace UUIDs in the packs ^manifest.json^
 UUID Generator Link - https://www.uuidgenerator.net/

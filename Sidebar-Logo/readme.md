@@ -19,7 +19,9 @@ while displaying a logo on top for branding.
 #7 Delete the sample Image and remane your [ Logo/Image ] to ^logo.png^
 
 ### [ sidebar supports 75x75 images/logoes ]
-`This can be chnages in file pathing com.mojang/resource_packs/sidebar logo/subpacks/{actionbar}or{title}/ui/hud_screen.json/"sidebar:display_logo":` 
+```diff
+This can be chnages in file pathing com.mojang/resource_packs/sidebar logo/subpacks/{actionbar}or{title}/ui/hud_screen.json/"sidebar:display_logo":
+```
 ```json
 {
 // Code located in the packs hud_screen.json file.

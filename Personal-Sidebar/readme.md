@@ -34,7 +34,3 @@ For more commands or to display scores on your sidebar look below.
 
 // Display Seprate Lines #
 `/titleraw @a title {"rawtext":[{"text":"Line 1"},{"text":"\nLine 2"}]}`
-
-
-// Creator
-Dooka (AKA) xtranda ;)

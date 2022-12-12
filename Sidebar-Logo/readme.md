@@ -3,10 +3,11 @@ Sidebar Logo - Subpack
 ```
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051979700660076655/banner.png?width=1011&height=569)
 --- ---
+## About
 ```diff
-Sidebar Logo a addon that adds a logo or image to the top of
-your sidebar. Changing the position of the 'title' and 'actionbar'
-while displaying a logo on top for branding.
+Sidebar Logo a addon that adds a logo or image to the top of your sidebar. 
+Changing the position of the 'title' and 'actionbar' while displaying a logo 
+on top for branding.
 ```
 
 ### Change Sidebar Logo

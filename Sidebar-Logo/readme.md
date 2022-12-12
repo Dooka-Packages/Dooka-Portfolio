@@ -5,7 +5,7 @@ Sidebar Logo - Subpack
 --- ---
 ## About
 ```diff
-Sidebar Logo a addon that adds a logo or image to the top of your sidebar. 
+A addon that adds a logo or image to the top of your sidebar. 
 Changing the position of the 'title' and 'actionbar' while displaying a logo 
 on top for branding.
 ```

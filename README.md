@@ -4,7 +4,7 @@
 A Collection of Dooka's Open Source MCBE Packs and Addons. Delow are instruction on how to download and install Dooka-Packages.  
 ```
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051988373784498186/image.png)
-#### How to Install Latest Addons/Packages
+### How to Install Latest Addons/Packages
 ```info
 Locate the Releases tab on the right or bottom of this page. Find all recent updated and releases Dooka-Packages 
 here with a simple .mcpack download.

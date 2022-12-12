@@ -12,7 +12,7 @@ Simply navigate to the tab on the right or bottom of the page shown below and do
 ```
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051988373784498186/image.png)
 --- ---
-## How to Download All Dooka-Packages/Addons Together.
+## How to Download All Portfolio Content
 ```info
 To download the branch as a .Zip file, look for the green "Code" button at the top of this repository. 
 This will give you full access to download the branch, and every pack file will include a .mcpack file 

@@ -29,6 +29,8 @@ For more commands or to display scores on your sidebar look below.
 `/titleraw @a title {"rawtext":[{"text":"Line 1"},{"text":"\nLine 2"}]}`
 
 **NOTE** 
+replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/
+
 ```diff 
 - This pack should not be replicated in any way. DONT sell this pack in any way. This debug ui addon can be added to your own pack. Make sure to add credit in the files or in your world! -
 ```

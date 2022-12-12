@@ -35,8 +35,6 @@ For more commands or to display scores on your sidebar look below.
 // Display Seprate Lines #
 `/titleraw @a title {"rawtext":[{"text":"Line 1"},{"text":"\nLine 2"}]}`
 
-// Contributing
-For More Help Contact Me Dooka On My Discord.
-Discord Code: https://discord.gg/PHevqUZrKB
+
 // Creator
 Dooka (AKA) xtranda ;)

@@ -9,7 +9,7 @@ A custome UI, able to display text and a logo or picture anywhere on the players
 Can Be Used In world, Realm, Server.
 ```
 
-### Manage UI Text
+### Manage Debug Text
 ```info
 #1 Open ^com.mojang^ folder, in %Appdata%.
 #2 Open ^resource_packs^ folder
@@ -23,7 +23,7 @@ Can Be Used In world, Realm, Server.
 ```
 Replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/
 
-### Manage UI Image
+### Manage Debug Image
 ```info
 #1 Open ^com.mojang^ folder, in %Appdata%.
 #2 Open ^resource_packs^ folder

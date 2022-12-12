@@ -10,6 +10,7 @@ while displaying a logo on top for branding.
 ```
 
 ### Change Sidebar Logo
+```info
 #1 Open ^com.mojang^ folder, in %Appdata%.
 #2 Open ^resource_packs^ folder
 #3 Open ^sidebar logo^ Folder
@@ -17,10 +18,12 @@ while displaying a logo on top for branding.
 #5 In the ^sidebar^ testures folder there is a sample ^logo.png^ 
 #6 Copy and Paste your [ Logo/Image ] into the ^sidebar^ textures folder
 #7 Delete the sample Image and remane your [ Logo/Image ] to ^logo.png^
+```
 
 ### [ sidebar supports 75x75 images/logoes ]
 ```diff
-This can be chnages in file pathing com.mojang/resource_packs/sidebar logo/subpacks/{actionbar}or{title}/ui/hud_screen.json/"sidebar:display_logo":
+This can be chnages in file pathing com.mojang/resource_packs/sidebar 
+logo/subpacks/{actionbar}or{title}/ui/hud_screen.json/"sidebar:display_logo":
 ```
 ```json
 {

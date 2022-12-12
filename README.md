@@ -17,4 +17,7 @@ To download the branch as a .Zip file, look for the green "Code" button at the t
 This will give you full access to the branch, and every pack file will include a .mcpack file for easy setup.
 ```
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051990177716895836/image.png)
+--- ---
+### Need more help?
+`Contact Dooka on discord @Dooka#6412 if your having issues downaloding or setting up a addon`
 

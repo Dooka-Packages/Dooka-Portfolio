@@ -1,0 +1,109 @@
+// _____                   _                 _    _           _
+//|  __ \                 | |               | |  | |         | |
+//| |__) |   ___    __ _  | |  _ __ ___     | |__| |  _   _  | |__
+//|  _  /   / _ \  / _` | | | | '_ ` _ \    |  __  | | | | | | '_ \
+//| | \ \  |  __/ | (_| | | | | | | | | |   | |  | | | |_| | | |_) |
+//|_|  \_\  \___|  \__,_| |_| |_| |_| |_|   |_|  |_|  \__,_| |_.__/
+//                       {Personal Sidebar}
+{
+  // start of actionbar
+  "hud_actionbar_text": {
+    "type": "image",
+    "size": ["100%cm", "100%c"],
+    "anchor_from": "left_middle",
+    "anchor_to": "left_middle",
+    "offset": [5, -5],
+    "texture": "textures/ui/hud_tip_text_background",
+    "alpha": 0.45,
+    "controls": [
+      {
+        "actionbar_message": {
+          "type": "label",
+          "text": "$actionbar_text",
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "color": "$tool_tip_text",
+          "shadow": true,
+          "localize": false,
+          "alpha": 1.0,
+          "layer": 31
+        }
+      }
+    ]
+  },
+  // start of title
+  "hud_title_text": {
+    "type": "panel",
+    "size": ["100%cm", "100%c"],
+    "anchor_from": "right_middle",
+    "anchor_to": "right_middle",
+    "alpha": 1.0,
+    "controls": [
+      {
+        "sidebar": {
+          "type": "panel",
+          "size": ["100%c", "100%c"],
+          "offset": [-5, 5],
+          "controls": [
+            {
+              "title_background": {
+                "type": "image",
+                "alpha": 0.45,
+                "layer": 0,
+                "size": ["100%cm", "100%c"],
+                "texture": "textures/ui/hud_tip_text_background",
+                "controls": [
+                  {
+                    "title": {
+                      "type": "label",
+                      "text": "$title_text",
+                      "anchor_from": "top_middle",
+                      "anchor_to": "top_middle",
+                      "color": "$tool_tip_text",
+                      "shadow": true,
+                      "localize": false,
+                      "font_size": "medium",
+                      "layer": 1,
+                      "alpha": 1.0
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      // start of subtitle
+      {
+        "subtitle": {
+          "type": "label",
+          "anchor_from": "middle_center",
+          "anchor_to": "middle_center",
+          "color": "$title_command_text_color",
+          "text": "#text",
+          "layer": 4,
+          "localize": true,
+          "font_size": "medium",
+          "shadow": true,
+          "alpha": 4.0,
+          "text_alignment": "center",
+          "offset": [-375, -500],
+          "bindings": [
+            {
+              "binding_name": "#hud_subtitle_text_string",
+              "binding_name_override": "#text",
+              "binding_type": "global"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+// _____                   _                 _    _           _
+//|  __ \                 | |               | |  | |         | |
+//| |__) |   ___    __ _  | |  _ __ ___     | |__| |  _   _  | |__
+//|  _  /   / _ \  / _` | | | | '_ ` _ \    |  __  | | | | | | '_ \
+//| | \ \  |  __/ | (_| | | | | | | | | |   | |  | | | |_| | | |_) |
+//|_|  \_\  \___|  \__,_| |_| |_| |_| |_|   |_|  |_|  \__,_| |_.__/
+//                       {Personal Sidebar}

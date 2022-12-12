@@ -1,0 +1,30 @@
+{
+   "format_version": 2,
+   "header": {
+     "name": "§fPersonal Sidebar §7RP",
+     "description": "§7Realm Hub Team",
+     "uuid": "08950a3a-8605-4c9c-92fc-9d87122192f2", 
+     "version": [1, 0, 0],
+     "min_engine_version": [1, 19, 20]
+   },
+   "modules": [
+     {
+       "type": "resources",
+       "uuid": "926954fc-a280-4b5c-8338-03179a1181d3",
+       "version": [0, 0, 1]
+     }
+   ],
+   "subpacks": [
+     {
+       "folder_name": "sidebar1",
+       "name": "§fOne Sidebar Display",
+       "memory_tier": 0
+     },
+     {
+       "folder_name": "sidebar2",
+       "name": "§fTwo Sidebar Displays",
+       "memory_tier": 0
+     }
+   ]
+ }
+ 

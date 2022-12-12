@@ -20,6 +20,7 @@ actionbar or title with rawtext. This is a subpack use the switcher in the pack 
 Type these commands in chat and create your own personal sidebar!
 For more commands or to display scores on your sidebar look below.
 ```
+--- ---
 ### Display Score 
 `/titleraw @a title {"rawtext":[{"text":"Balance: "},{"score":{"name":"*","objective":"money"}}]}`
 

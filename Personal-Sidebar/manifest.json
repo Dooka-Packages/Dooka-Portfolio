@@ -2,10 +2,10 @@
    "format_version": 2,
    "header": {
      "name": "§fPersonal Sidebar §7RP",
-     "description": "§7Realm Hub Team",
+     "description": "§7Dooka-Packages",
      "uuid": "08950a3a-8605-4c9c-92fc-9d87122192f2", 
      "version": [1, 0, 0],
-     "min_engine_version": [1, 19, 20]
+     "min_engine_version": [1, 19, 40]
    },
    "modules": [
      {

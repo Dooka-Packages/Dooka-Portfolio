@@ -12,26 +12,29 @@ replace UUIDs in the packs ^manifest.json^
 UUID Generator Link - https://www.uuidgenerator.net/
 
 
-// Display Title
+### Display Title
 `/title @a title test!`
 `/titleraw @a title {"rawtext":[{"text":"test"}]}`
 
-// Display Actionbar
+### Display Actionbar
 `/title @a actionbar test!`
 `/titleraw @a actionbar {"rawtext":[{"text":"test"}]}`
 
 + Type these commands in chat and create your own personal sidebar!
 For more commands or to display scores on your sidebar look below.
 
-// Display Score 
+### Display Score 
 `/titleraw @a title {"rawtext":[{"text":"Balance: "},{"score":{"name":"*","objective":"money"}}]}`
 
-//Display Player 
+### Display Player 
 `/titleraw @a title {"rawtext":[{"selector":"@s"},{"text":" §aIs Broke!"}]}`
 
-// Display Seprate Lines #
+### Display Seprate Lines
 `/titleraw @a title {"rawtext":[{"text":"Line 1"},{"text":"\nLine 2"}]}`
 
-**NOTE** This pack should not be replicated in any way.
+**NOTE** 
+```diff 
+- This pack should not be replicated in any way.
 DONT sell this pack in any way. This debug ui addon can be added 
-to your own pack. Make sure to add credit in the files or in your world!
+to your own pack. Make sure to add credit in the files or in your world! -
+```

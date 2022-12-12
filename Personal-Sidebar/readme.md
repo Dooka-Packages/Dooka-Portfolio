@@ -1,6 +1,5 @@
+{Personal Sidebar} Subpack
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051972486197166161/banner.png?width=1011&height=569)
-
-                   {Personal Sidebar} Subpack
 
 replace UUIDs in the packs ^manifest.json^
 UUID Generator Link - https://www.uuidgenerator.net/

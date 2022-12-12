@@ -8,8 +8,9 @@ Debug Ui - Subpack
 A custome UI, able to display text and a logo or picture anywhere on the players screen throughout gameplay!
 Can Be Used In world, Realm, Server.
 ```
-```info
+
 ### Manage UI Text
+```info
 #1 Open ^com.mojang^ folder, in %Appdata%.
 #2 Open ^resource_packs^ folder
 #3 Open ^Debug-UI^ Folder
@@ -20,8 +21,9 @@ Can Be Used In world, Realm, Server.
 #6 Change "text": "§f[ Server Name ]", With the text you want.
 #7 Chnage "text": "§7[ New Content At Spawn! ]", With the text you want, or keep it blank.
 ```
-```info
+
 ### Manage UI Image
+```info
 #1 Open ^com.mojang^ folder, in %Appdata%.
 #2 Open ^resource_packs^ folder
 #3 Open ^Debug-UI^ Folder

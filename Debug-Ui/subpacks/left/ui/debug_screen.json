@@ -1,0 +1,64 @@
+//██████╗░░█████╗░░█████╗░██╗░░██╗░█████╗░░██████╗░███████╗░██████╗
+//██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔════╝░██╔════╝██╔════╝
+//██████╔╝███████║██║░░╚═╝█████═╝░███████║██║░░██╗░█████╗░░╚█████╗░
+//██╔═══╝░██╔══██║██║░░██╗██╔═██╗░██╔══██║██║░░╚██╗██╔══╝░░░╚═══██╗
+//██║░░░░░██║░░██║╚█████╔╝██║░╚██╗██║░░██║╚██████╔╝███████╗██████╔╝
+//╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚══════╝╚═════╝░
+//{ Pack Created By Dooka }
+{
+  "Debug_lable_1": {
+    "type": "label",
+    "text": "§f[ Server Name ]",
+    "shadow": true,
+    "font_size": "left",
+    "offset": [33, 7],
+    "anchor_from": "top_left",
+    "anchor_to": "top_left"
+  },
+  "Debug_lable_2": {
+    "type": "label",
+    "text": "§3[ §bNew Content At Spawn! §3]",
+    "shadow": true,
+    "font_size": "left",
+    "offset": [33, 17],
+    "anchor_from": "top_left",
+    "anchor_to": "top_left"
+  },
+  "Debug_image_1": {
+    "type": "image",
+    "texture": "textures/image",
+    "anchor_from": "top_left",
+    "anchor_to": "top_left",
+    "offset": [5, 5],
+    "size": [23, 23],
+    "layer": 3
+  },
+  "special_render": {
+    "type": "custome",
+    "renderer": "debug_screen_renderer"
+  },
+  "content_panel": {
+    "type": "panel",
+    "controls": [
+      {
+        "Debug_lable_1@debug_screen.Debug_lable_1": {}
+      },
+      {
+        "Debug_lable_2@debug_screen.Debug_lable_2": {}
+      },
+      {
+        "Debug_image_1@debug_screen.Debug_image_1": {}
+      },
+      {
+        "special_render@debug_screen.special_render": {}
+      }
+    ]
+  }
+}
+//██████╗░░█████╗░░█████╗░██╗░░██╗░█████╗░░██████╗░███████╗░██████╗
+//██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔════╝░██╔════╝██╔════╝
+//██████╔╝███████║██║░░╚═╝█████═╝░███████║██║░░██╗░█████╗░░╚█████╗░
+//██╔═══╝░██╔══██║██║░░██╗██╔═██╗░██╔══██║██║░░╚██╗██╔══╝░░░╚═══██╗
+//██║░░░░░██║░░██║╚█████╔╝██║░╚██╗██║░░██║╚██████╔╝███████╗██████╔╝
+//╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚══════╝╚═════╝░
+//{ Pack Created By Dooka }

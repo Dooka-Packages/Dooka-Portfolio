@@ -23,5 +23,4 @@ for easy setup.
 --- ---
 ### Need more help?
 `Contact Dooka on discord @Dooka#6412 if your having issues downloading or setting up a Dooka-Package.`
-<img src="https://img.shields.io/github/downloads/Dooka-Packages/Dooka-Portfolio/total" alt="Downloads"/>
 

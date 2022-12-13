@@ -22,6 +22,6 @@ for easy setup.
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051990177716895836/image.png)
 --- ---
 ### Need more help?
-`Contact Dooka on discord @Dooka#6412 if your having issues downaloding or setting up a Dooka-Package.`
+`Contact Dooka on discord @Dooka#6412 if your having issues downloading or setting up a Dooka-Package.`
 <img src="https://img.shields.io/github/downloads/Dooka-Packages/Dooka-Portfolio/total" alt="Downloads"/>
 

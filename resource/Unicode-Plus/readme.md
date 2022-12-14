@@ -153,4 +153,4 @@ with the pack not updating contact me on Discord @Dooka#6412.
 | `16O`      |            |           |
 | `16P`      |            |           |
 |:----------:|:-----------:|:---------:|
-|   Name     |    Unicode  |  In game  |	
+|    Name    |   Unicode   |  In game  |	

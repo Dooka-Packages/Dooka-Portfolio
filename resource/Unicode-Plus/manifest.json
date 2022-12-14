@@ -19,16 +19,6 @@
       "folder_name": "16x16",
       "name": "16x16 Unicode",
       "memory_tier": 0
-    },
-    {
-      "folder_name": "32x32",
-      "name": "32x32 Unicode",
-      "memory_tier": 0
-    },
-    {
-      "folder_name": "64x64",
-      "name": "64x64 Unicode",
-      "memory_tier": 0
     }
   ]
 }

@@ -8,6 +8,8 @@ they are usable in chat or in packs.
 ```
 > <h2>How To Use</h2>
 #### Find the Glyph Textures.
+![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052498551319560202/image.png)
+![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052498614846496868/image.png)
 ```info
 FIRST, get access to the pack contents to edit the unicode pngs - in "com.mojang" folder.
 SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.

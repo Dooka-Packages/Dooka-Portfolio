@@ -7,14 +7,14 @@ be helpful, but could also be a hassle to use. I have decided to update and orga
 they are usable in chat or in packs.
 ```
 > <h2>How To Use</h2>
-#### Find the Glyph Textures
+#### Find the Glyph Textures.
 ```info
 FIRST, get access to the pack contents to edit the unicode pngs - "com.mojang" folder.
 SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
 LSTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ```
 
-#### How To Edit The Glyph Texture
+#### How To Edit The Glyph Texture.
 ```info
 FIRST, open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
 SECOND, depending on the size set your using the whole glyph should be number and letter labled.

@@ -16,12 +16,13 @@ Second, make sure the Unicode-Plus pack is in your "develoment_resource_pack" fo
 Lastly, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 `
 
-## How To Edit The Glyph Texture
+### How To Edit The Glyph Texture
 ` First, Open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
 Second, depending on the size set your using the whole glyph should be number and letter labled.
 Fianlly, Add or draw a image in any of the boxes that arent red and erase the template box.
 Lastly, Listed below copy the cordinated lable number of hwre you added your art into, the join 
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.`
+--- ---
 > <h2>List Unicode</h2>
 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |

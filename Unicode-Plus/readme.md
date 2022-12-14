@@ -3,7 +3,7 @@
 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |
 |:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|
-| `1A`      |            |           | `2A`      |            |           | `3A`      |    None     |     ![image](https://media.discordapp.net/attachments/1050591171921072130/1052481834790961153/Untitled.png)      |
+| `1A`      |            |    ![image](https://media.discordapp.net/attachments/1050591171921072130/1052481834790961153/Untitled.png)       | `2A`      |            |           | `3A`      |    None     |           |
 | `1B`      |            |           | `2B`      |            |           | `3B`      |    None     |           |
 | `1C`      |            |           | `2C`      |            |           | `3C`      |    None     |           |
 | `1D`      |            |           | `2D`      |            |           | `3D`      |    None     |           |

@@ -19,7 +19,7 @@ LASTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 FIRST, open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
 SECOND, depending on the size set your using the whole glyph should be number and letter labled.
 FINALLY, Add or draw a image in any of the boxes that arent red and erase the template box.
-LASTLY, Listed below copy the cordinated lable number of the box you added your art into. then join 
+LASTLY, Listed below copy the cordinated lable number Unicode of the box you added your art into. then join 
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.
 ```
 

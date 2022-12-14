@@ -1,5 +1,5 @@
 ```diff
-! PACK STILL IN DEVELOPMENT !
+- PACK STILL IN DEVELOPMENT - Only 16x16 Unicode Set.
 ```
 
 > <h2>Information</h2>

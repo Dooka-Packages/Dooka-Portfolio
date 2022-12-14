@@ -13,6 +13,7 @@ FIRST, get access to the pack contents to edit the unicode pngs - in "com.mojang
 SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
 LASTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ```
+![image](https://media.discordapp.net/attachments/1050591171921072130/1052497958970589234/glyph_E1.png)
 
 #### How To Edit The Glyph Texture.
 ```info

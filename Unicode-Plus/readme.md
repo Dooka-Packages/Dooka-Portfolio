@@ -1,4 +1,4 @@
-```info
+```diff
 ! PACK STILL IN DEVELOPMENT !
 ```
 

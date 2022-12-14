@@ -10,17 +10,18 @@ I have created a very simple Unicode pack that may be helpful, but could also be
 update and organize the Unicode characters so that they are usable in chat or in packs.
 ```
 ### Find the Glyph Textures
-` First, get access to the pack contents to edit the unicode pngs - "com.mojang" file.
-Second, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
-Lastly, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
-`
+```info
+FIRST, get access to the pack contents to edit the unicode pngs - "com.mojang" file.
+SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
+LSTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
+```
 
 ### How To Edit The Glyph Texture
 ```info
-First, open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
-Second, depending on the size set your using the whole glyph should be number and letter labled.
-Fianlly, Add or draw a image in any of the boxes that arent red and erase the template box.
-Lastly, Listed below copy the cordinated lable number of hwre you added your art into, the join 
+FIRST, open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
+SECOND, depending on the size set your using the whole glyph should be number and letter labled.
+FINALLY, Add or draw a image in any of the boxes that arent red and erase the template box.
+LASTLY, Listed below copy the cordinated lable number of hwre you added your art into, the join 
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.
 ```
 --- ---

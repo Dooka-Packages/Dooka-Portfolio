@@ -31,7 +31,7 @@ LASTLY, Listed below copy the cordinated lable number Unicode of the box you add
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.
 ```
 ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499178502238248/image.png)
-> I have added multi glyph textures you can edit in the "edit" folder. These are simply the same image as the
+> I have added multi glyph textures you can edit in the "edit" folder. These are simply the same images as the
 default glyph but without the lines, numbers, or just transparent. If you use these make sure to replace them
 with the default glyph not in the "edit" folder. 
 

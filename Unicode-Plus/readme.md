@@ -11,7 +11,7 @@ they are usable in chat or in packs.
 ```info
 FIRST, get access to the pack contents to edit the unicode pngs - in "com.mojang" folder.
 SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
-LSTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
+LASTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ```
 
 #### How To Edit The Glyph Texture.

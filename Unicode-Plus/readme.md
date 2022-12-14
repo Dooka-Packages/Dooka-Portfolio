@@ -23,7 +23,7 @@ LASTLY, Listed below copy the cordinated lable number Unicode of the box you add
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.
 ```
 
-#### Why is my pack not updating when i add new Unicode?
+### Why is my pack not updating when i add new Unicode?
 ```info
 Make sure to change the pack manifest UUID's only once when your transfering the pack into your
 "development_resource_pack" folder in the "com.mojang" folder. If there are still issues 

@@ -4,7 +4,6 @@ Unicode Plus is a template pack that's designed to help you organize and add you
 Unicode is a character encoding standard that's used to display images or hex images, such as "". These characters 
 can be used in chat or seen in the MCBE "how to play" screen.
 ```
---- ---
 > <h2>How To Use</h2>
 ```info
 I have created a very simple Unicode pack that may be helpful, but could also be a hassle to use. I have decided to 

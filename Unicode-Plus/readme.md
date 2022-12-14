@@ -4,19 +4,19 @@
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |
 |:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|
 | `1A`      |            |    ![image](https://media.discordapp.net/attachments/1050591171921072130/1052481834790961153/Untitled.png)       | `2A`      |            |           | `3A`      |    None     |           |
-| `1B`      |            |           | `2B`      |            |           | `3B`      |    None     |           |
-| `1C`      |            |           | `2C`      |            |           | `3C`      |    None     |           |
-| `1D`      |            |           | `2D`      |            |           | `3D`      |    None     |           |
-| `1E`      |            |           | `2E`      |            |           | `3E`      |    None     |           |
-| `1F`      |            |           | `2F`      |            |           | `3F`      |    None     |           |
-| `1G`      |            |           | `2G`      |            |           | `3G`      |    None     |           |
-| `1H`      |            |           | `2H`      |            |           | `3H`      |    None     |           |
-| `1I`      |            |           | `2I`      |            |           | `3I`      |    None     |           |
-| `1J`      |            |           | `2J`      |            |           | `3J`      |    None     |           |
-| `1K`      |            |           | `2K`      |            |           | `3K`      |    None     |           |
-| `1L`      |            |           | `2L`      |            |           | `3L`      |    None     |           |
-| `1M`      |            |           | `2M`      |            |           | `3M`      |    None     |           |
-| `1N`      |            |           | `2N`      |            |           | `3N`      |    None     |           |
+| `1B`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483594444087316/Untitled.png)       | `2B`      |            |           | `3B`      |    None     |           |
+| `1C`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483592099475496/Untitled2.png)       | `2C`      |            |           | `3C`      |    None     |           |
+| `1D`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483592430821406/Untitled3.png)       | `2D`      |            |           | `3D`      |    None     |           |
+| `1E`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483592753795082/Untitled4.png)       | `2E`      |            |           | `3E`      |    None     |           |
+| `1F`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483593089331230/Untitled5.png)       | `2F`      |            |           | `3F`      |    None     |           |
+| `1G`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483620931117066/Untitled6.png)       | `2G`      |            |           | `3G`      |    None     |           |
+| `1H`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483621270863922/Untitled7.png)       | `2H`      |            |           | `3H`      |    None     |           |
+| `1I`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483621564469278/Untitled8.png)       | `2I`      |            |           | `3I`      |    None     |           |
+| `1J`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483621853863967/Untitled9.png)       | `2J`      |            |           | `3J`      |    None     |           |
+| `1K`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483622168444938/Untitled10.png)       | `2K`      |            |           | `3K`      |    None     |           |
+| `1L`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483593538117642/Untitled11.png)       | `2L`      |            |           | `3L`      |    None     |           |
+| `1M`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483593814953994/Untitled12.png)       | `2M`      |            |           | `3M`      |    None     |           |
+| `1N`      |            |    ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483594100158494/Untitled13.png)       | `2N`      |            |           | `3N`      |    None     |           |
 | `1O`      |            |           | `2O`      |            |           | `3O`      |    None     |           |
 | `1P`      |            |           | `2P`      |            |           | `3P`      |    None     |           |
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |

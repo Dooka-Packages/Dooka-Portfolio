@@ -1,6 +1,8 @@
 > <h2>Information</h2>
 ```info
-Unicode Plus is a template pack that's designed to help you organize and add your own Unicode characters to MCBE. Unicode is a character encoding standard that's used to display images or hex images, such as "". These characters can be used in chat or seen in the MCBE "how to play" screen.
+Unicode Plus is a template pack that's designed to help you organize and add your own Unicode characters to MCBE. 
+Unicode is a character encoding standard that's used to display images or hex images, such as "". These characters 
+can be used in chat or seen in the MCBE "how to play" screen.
 ```
 --- ---
 > <h2>How To Use</h2>

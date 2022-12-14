@@ -46,7 +46,7 @@ Make sure to change the pack manifest UUID's only once when your transfering the
 with the pack not updating contact me on Discord @Dooka#6412.
 ```
 --- ---
-> <h2>List Unicode</h2>
+> <h2>List Unicode - Glyph_E1</h2>
 > Test the Unicode in your chat by coping the Unicode depending on the In game image next to it, then paste it into your chat. 
 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |

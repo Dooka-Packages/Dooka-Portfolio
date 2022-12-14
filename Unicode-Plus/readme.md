@@ -1,3 +1,7 @@
+```info
+- PACK STILL IN DEVELOPMENT -
+```
+
 > <h2>Information</h2>
 ```info
 Unicode Plus is a template pack that's designed to help you organize and add your own Unicode characters to MCBE. 

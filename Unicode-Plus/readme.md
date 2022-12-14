@@ -20,6 +20,9 @@ LASTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1052498181021241384/glyph_E1NO_LINES.png)
 
 #### How To Edit The Glyph Texture.
+![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499002043682856/image.png)
+![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499073405562890/image.png)
+![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499131211456582/image.png)
 ```info
 FIRST, open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
 SECOND, depending on the size set your using the whole glyph should be number and letter labled.
@@ -27,6 +30,7 @@ FINALLY, Add or draw a image in any of the boxes that arent red and erase the te
 LASTLY, Listed below copy the cordinated lable number Unicode of the box you added your art into. then join 
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.
 ```
+![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499178502238248/image.png)
 
 ### Why is my pack not updating when i add new Unicode?
 ```info

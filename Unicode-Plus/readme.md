@@ -2,21 +2,19 @@
 ```info
 Unicode Plus is a template pack that's designed to help you organize and add your own Unicode characters to MCBE. 
 Unicode is a character encoding standard that's used to display images or hex images, such as "". These characters 
-can be used in chat or seen in the MCBE "how to play" screen.
+can be used in chat or seen in the MCBE "how to play" screen. I have created a very simple Unicode pack that may 
+be helpful, but could also be a hassle to use. I have decided to update and organize the Unicode characters so that 
+they are usable in chat or in packs.
 ```
 > <h2>How To Use</h2>
-```info
-I have created a very simple Unicode pack that may be helpful, but could also be a hassle to use. I have decided to 
-update and organize the Unicode characters so that they are usable in chat or in packs.
-```
-### Find the Glyph Textures
+#### Find the Glyph Textures
 ```info
 FIRST, get access to the pack contents to edit the unicode pngs - "com.mojang" folder.
 SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
 LSTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ```
 
-### How To Edit The Glyph Texture
+#### How To Edit The Glyph Texture
 ```info
 FIRST, open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
 SECOND, depending on the size set your using the whole glyph should be number and letter labled.
@@ -25,7 +23,7 @@ LASTLY, Listed below copy the cordinated lable number of the box you added your 
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.
 ```
 
-### Why is my pack not updating when i add new Unicode?
+#### Why is my pack not updating when i add new Unicode?
 ```info
 Make sure to change the pack manifest UUID's only once when your transfering the pack into your
 "development_resource_pack" folder in the "com.mojang" folder. If there are still issues 

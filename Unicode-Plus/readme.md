@@ -14,6 +14,8 @@ SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" fo
 LASTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ```
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1052497958970589234/glyph_E1.png)
+![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052498181692325958/glyph_E1NO_NUMBERS.png)
+![image](https://media.discordapp.net/attachments/1050591171921072130/1052498181021241384/glyph_E1NO_LINES.png)
 
 #### How To Edit The Glyph Texture.
 ```info

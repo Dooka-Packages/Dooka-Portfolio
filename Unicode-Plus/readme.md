@@ -1,4 +1,4 @@
-|   Name  |   Unicode   |  In game  |   Name  |   Unicode   |  In game  |   Name  |   Unicode   |  In game  |
+|   Name  |   Unicode   |  In game  |   Name  |   Unicode   |  In game  /   Name  |   Unicode   |  In game  |
 |:-------:|:-----------:|:---------:|:-------:|:-----------:|:---------:|:-------:|:-----------:|:---------:|
 | 1A      |            |           | 2A      |            |           | 3A      |      X      |           |
 | 1B      |            |           | 2B      |            |           | 3B      |      X      |           |

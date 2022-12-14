@@ -11,7 +11,7 @@ update and organize the Unicode characters so that they are usable in chat or in
 ```
 ### Find the Glyph Textures
 ```info
-FIRST, get access to the pack contents to edit the unicode pngs - "com.mojang" file.
+FIRST, get access to the pack contents to edit the unicode pngs - "com.mojang" folder.
 SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
 LSTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ```
@@ -23,6 +23,13 @@ SECOND, depending on the size set your using the whole glyph should be number an
 FINALLY, Add or draw a image in any of the boxes that arent red and erase the template box.
 LASTLY, Listed below copy the cordinated lable number of the box you added your art into. then join 
 a world with the pack on and paste the Unicode symbole into chat and your art should appear.
+```
+
+### Why is my pack not updating when i add new Unicode?
+```info
+Make sure to change the pack manifest UUID's only once when your transfering the pack into your
+"development_resource_pack" folder in the "com.mojang" folder. If there are still issues 
+with the pack not updating contact me on Discord @Dooka#6412.
 ```
 --- ---
 > <h2>List Unicode</h2>

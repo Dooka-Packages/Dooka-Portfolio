@@ -18,7 +18,8 @@ setting switcher is glyph-E1,E0, and A1 Unicode textures. Linked below are the U
 you select and are editing.
 ```
 
- `E1`  [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1/glyph_E1%20Unicode%20List.md)![image](https://media.discordapp.net/attachments/1050591171921072130/1052497958970589234/glyph_E1.png) 
+ `E1`  [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1/glyph_E1%20Unicode%20List.md)
+ ![image](https://media.discordapp.net/attachments/1050591171921072130/1052497958970589234/glyph_E1.png) 
  `E0`  [glyph_E0 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E0/glyph_E0%20Unicode%20List.md)
  `A1`  [glyph_A1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_A1/glyph_A1%20Unicode%20List.md)
 
@@ -31,8 +32,6 @@ FIRST, get access to the pack contents to edit the unicode pngs - in "com.mojang
 SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
 LASTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
 ```
-![image](https://media.discordapp.net/attachments/1050591171921072130/1052497958970589234/glyph_E1.png)
-
 #### How To Edit The Glyph Texture.
 ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499002043682856/image.png)
 ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499073405562890/image.png)

@@ -8,7 +8,7 @@ be helpful, but could also be a hassle to use. I have decided to update and orga
 they are usable in chat or in packs.
 ```
 --- ---
-![image](https://user-images.githubusercontent.com/108203851/207826794-05a0fe9a-ab99-4706-82e5-6751f2c950b8.png)
+![image](https://media.discordapp.net/attachments/1050591171921072130/1053093578458542090/image.png?width=1350&height=195)
 ```info
 As a Unicode subpack, you have the option to switch between glyphs that create Unicode. In this setting, you can choose 
 from glyph-E1, or 2A Unicode templates. Below, you will find a custom Unicode list for the specific glyph you have 

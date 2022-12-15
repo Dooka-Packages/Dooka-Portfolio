@@ -1,5 +1,5 @@
 > <h2>List Unicode - Glyph_E1</h2>
-> Test the Unicode in your chat by coping the Unicode depending on the In game image next to it, then paste it into your chat. 
+> Test E1 Unicode by copying the Unicode hex symbole into chat depending on the In-Game image it displays. 
 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |
 |:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|

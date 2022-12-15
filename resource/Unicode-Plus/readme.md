@@ -1,5 +1,5 @@
 ```diff
-- PACK STILL IN DEVELOPMENT - Only 16x16 Unicode Set.
++ This is a subpack with a slider that can be set to 16,32,64 unicode size. +
 ```
 
 > <h2>Information</h2>

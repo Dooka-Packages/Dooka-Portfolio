@@ -9,7 +9,7 @@ they are usable in chat or in packs.
 ```
 ```diff
 - Access the Pack contents in the com.mojang folder. Make sure the pack is moved to the "development_resource_pack" -
-flder if any edits are done to the glyph textures. If you need help contact me @Discord - Dooka#6412 :). -
+- folder if any edits are done to the glyph textures. If you need help contact me @Discord - Dooka#6412 :). -
 ```
 --- ---
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1053093578458542090/image.png?width=1350&height=195)

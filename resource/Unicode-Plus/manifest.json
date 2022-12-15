@@ -3,32 +3,15 @@
   "header": {
     "name": "§fUnicode Plus §7RP",
     "description": "§7Dooka-Packages",
-    "uuid": "ef924d8f-6c65-47fd-aff0-9468c4fa58e7",
+    "uuid": "54d56fa4-cc2d-43ac-9ccf-fc18a6754dda",
     "version": [1, 0, 0],
     "min_engine_version": [1, 19, 40]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "076b0e09-09ce-4565-b248-3fa1a09b2e70",
+      "uuid": "5e382c68-39f7-4798-b48c-9945ad879843",
       "version": [0, 0, 1]
-    }
-  ],
-  "subpacks": [
-    {
-      "folder_name": "glyph_E1",
-      "name": "glyph_E1 Unicode",
-      "memory_tier": 0
-    },
-    {
-      "folder_name": "glyph_E0",
-      "name": "glyph_E0 Unicode",
-      "memory_tier": 0
-    },
-    {
-      "folder_name": "glyph_A1",
-      "name": "glyph_A1 Unicode",
-      "memory_tier": 0
     }
   ]
 }

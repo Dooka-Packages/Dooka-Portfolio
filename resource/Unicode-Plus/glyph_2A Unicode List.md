@@ -2,12 +2,12 @@
 > Test A1 Unicode by copying the Unicode hex symbole into chat depending on the In-Game image it displays. 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |
 |:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|
-| `1A`      |      ⨀      |           | `2A`      |      ⨐      |           | `3A`      |     ⨠      |           |
-| `1B`      |      ⨁      |           | `2B`      |      ⨑      |           | `3B`      |     ⨡       |           |
-| `1C`      |      ⨂      |           | `2C`      |      ⨒      |           | `3C`      |     ⨢      |           |
-| `1D`      |      ⨃      |           | `2D`      |      ⨓      |           | `3D`      |     ⨣      |           |
-| `1E`      |      ⨄      |           | `2E`      |      ⨔      |           | `3E`      |     ⨤      |           |
-| `1F`      |      ⨅      |           | `2F`      |      ⨕      |           | `3F`      |     ⨥      |           |
+| `1A`      |      ⨀      |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869002273230878/Untitled.png)      | `2A`      |      ⨐      |           | `3A`      |     ⨠      |           |
+| `1B`      |      ⨁      |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869018261925888/Untitled1.png)      | `2B`      |      ⨑      |           | `3B`      |     ⨡       |           |
+| `1C`      |      ⨂      |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869018618429460/Untitled2.png)      | `2C`      |      ⨒      |           | `3C`      |     ⨢      |           |
+| `1D`      |      ⨃      |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869000939442196/Untitled3.png)      | `2D`      |      ⨓      |           | `3D`      |     ⨣      |           |
+| `1E`      |      ⨄      |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869001304342548/Untitled4.png)      | `2E`      |      ⨔      |           | `3E`      |     ⨤      |           |
+| `1F`      |      ⨅      |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869001648291850/Untitled5.png)      | `2F`      |      ⨕      |           | `3F`      |     ⨥      |           |
 | `1G`      |      ⨆      |           | `2G`      |      ⨖      |           | `3G`      |     ⨦      |           |
 | `1H`      |      ⨇      |           | `2H`      |      ⨗      |           | `3H`      |    ⨧      |           |
 | `1I`      |      ⨈      |           | `2I`      |      ⨘      |           | `3I`      |     ⨨     |           |

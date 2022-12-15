@@ -19,34 +19,10 @@ you select and are editing.
 ```
 
  `E1`  [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1/glyph_E1%20Unicode%20List.md)
- ![image](https://media.discordapp.net/attachments/1050591171921072130/1052497958970589234/glyph_E1.png) 
  `E0`  [glyph_E0 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E0/glyph_E0%20Unicode%20List.md)
  `A1`  [glyph_A1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_A1/glyph_A1%20Unicode%20List.md)
 
 > <h2>How To Use</h2>
-#### Find the Glyph Textures.
-![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052498551319560202/image.png)
-![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052498614846496868/image.png)
-```info
-FIRST, get access to the pack contents to edit the unicode pngs - in "com.mojang" folder.
-SECOND, make sure the Unicode-Plus pack is in your "develoment_resource_pack" folder.
-LASTLY, locate the glyph png in the pack with path subpack/font/glyph_E1.png.
-```
-#### How To Edit The Glyph Texture.
-![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499002043682856/image.png)
-![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499073405562890/image.png)
-![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499131211456582/image.png)
-```info
-FIRST, open the glyph_E1.png in a Pixle photo editing software, I use https://pixlr.com/e/.
-SECOND, depending on the size set your using the whole glyph should be number and letter labled.
-FINALLY, Add or draw a image in any of the boxes that arent red and erase the template box.
-LASTLY, Listed below copy the cordinated lable number Unicode of the box you added your art into. then join 
-a world with the pack on and paste the Unicode symbole into chat and your art should appear.
-```
-![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052499178502238248/image.png)
-> I have added multi glyph textures you can edit in the "edit" folder. These are simply the same images as the
-default glyph but without the lines, numbers, or just transparent. If you use these make sure to replace them
-with the default glyph not in the "edit" folder. 
 
 ### Why is my pack not updating when i add new Unicode?
 ```info

@@ -12,6 +12,7 @@ they are usable in chat or in packs.
 - folder if any edits are done to the glyph textures. If you need help contact me @Discord - Dooka#6412 :). -
 ```
 --- ---
+> <h2>Unicode List</h2> 
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1053093578458542090/image.png?width=1350&height=195)
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1053093795442475088/image.png?width=1350&height=132)
 ```info

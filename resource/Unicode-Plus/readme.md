@@ -11,8 +11,8 @@ they are usable in chat or in packs.
 ![image](https://user-images.githubusercontent.com/108203851/207826794-05a0fe9a-ab99-4706-82e5-6751f2c950b8.png)
 ```info
 As this is a Unicode subpack you have the setting to switch between glyphs that creat the unicode. Available in this
-setting switcher is glyph-E1,E0, and A1 Unicode textures. Linked below are the Unicode list for the specific glyph 
-you select and are editing.
+setting switcher is glyph-E1,E0, and A1 Unicode textures. Linked below are the custom Unicode list for the specific glyph 
+you select and are editing to test it out.
 ```
 
  `E1`  [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1/glyph_E1%20Unicode%20List.md)

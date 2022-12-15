@@ -9,6 +9,7 @@ they are usable in chat or in packs.
 ```
 --- ---
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1053093578458542090/image.png?width=1350&height=195)
+![image](https://media.discordapp.net/attachments/1050591171921072130/1053093795442475088/image.png?width=1350&height=132)
 ```info
 As a Unicode subpack, you have the option to switch between glyphs that create Unicode. In this setting, you can choose 
 from glyph-E1, or 2A Unicode templates. Below, you will find a custom Unicode list for the specific glyph you have 

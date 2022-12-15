@@ -1,4 +1,4 @@
-> <h2>List Unicode - Glyph_A1</h2>
+> <h2>List Unicode - Glyph_2A</h2>
 > Test A1 Unicode by copying the Unicode hex symbole into chat depending on the In-Game image it displays. 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |
 |:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|

@@ -29,8 +29,8 @@
 | `1D`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869000939442196/Untitled3.png)      | `2D`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483592430821406/Untitled3.png)      | `3D`      |    None     |           |
 | `1E`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869001304342548/Untitled4.png)      | `2E`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483592753795082/Untitled4.png)      | `3E`      |    None     |           |
 | `1F`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052869001648291850/Untitled5.png)      | `2F`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483593089331230/Untitled5.png)      | `3F`      |    None     |           |
-| `1G`      |            |           | `2G`      |            |           | `3G`      |    None     |           |
-| `1H`      |            |           | `2H`      |            |           | `3H`      |    None     |           |
+| `1G`      |            |           | `2G`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483620931117066/Untitled6.png)      | `3G`      |    None     |           |
+| `1H`      |            |           | `2H`      |            |     ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052483621270863922/Untitled7.png)      | `3H`      |    None     |           |
 | `1I`      |            |           | `2I`      |            |           | `3I`      |    None     |           |
 | `1J`      |            |           | `2J`      |            |           | `3J`      |    None     |           |
 | `1K`      |            |           | `2K`      |            |           | `3K`      |    None     |           |

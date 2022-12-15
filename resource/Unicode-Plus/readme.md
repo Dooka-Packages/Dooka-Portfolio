@@ -11,11 +11,11 @@ they are usable in chat or in packs.
 ![image](https://user-images.githubusercontent.com/108203851/207826794-05a0fe9a-ab99-4706-82e5-6751f2c950b8.png)
 ```info
 As a Unicode subpack, you have the option to switch between glyphs that create Unicode. In this setting, you can choose 
-from glyph-E1, E0, and A1 Unicode textures. Below, you will find a custom Unicode list for the specific glyph you have 
+from glyph-E1, or 2A Unicode templates. Below, you will find a custom Unicode list for the specific glyph you have 
 selected, which you can use to test it out.
 ```
 
- `E1`  [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/glyph_E1%20Unicode%20List.md)
- `2A`  [glyph_2A Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/glyph_2A%20Unicode%20List.md)
+ `E1`  [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1/glyph_E1%20Unicode%20List.md)
+ `2A`  [glyph_2A Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_2A/glyph_2A%20Unicode%20List.md)
 --- ---
 

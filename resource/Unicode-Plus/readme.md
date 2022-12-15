@@ -7,6 +7,10 @@ can be used in chat or seen in the MCBE "how to play" screen. I have created a v
 be helpful, but could also be a hassle to use. I have decided to update and organize the Unicode characters so that 
 they are usable in chat or in packs.
 ```
+```diff
+- Access the Pack contents in the com.mojang folder. Make sure the pack is moved to the "development_resource_pack" -
+flder if any edits are done to the glyph textures. If you need help contact me @Discord - Dooka#6412 :). -
+```
 --- ---
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1053093578458542090/image.png?width=1350&height=195)
 ![image](https://media.discordapp.net/attachments/1050591171921072130/1053093795442475088/image.png?width=1350&height=132)

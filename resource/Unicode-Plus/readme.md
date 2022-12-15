@@ -1,7 +1,6 @@
 ```diff
 + This is a subpack with a slider that can be set to 16,32,64 unicode size. +
 ```
-> [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1_Unicode_List.md)
 
 > <h2>Information</h2>
 ```info
@@ -11,6 +10,8 @@ can be used in chat or seen in the MCBE "how to play" screen. I have created a v
 be helpful, but could also be a hassle to use. I have decided to update and organize the Unicode characters so that 
 they are usable in chat or in packs.
 ```
+> [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1_Unicode_List.md)
+
 > <h2>How To Use</h2>
 #### Find the Glyph Textures.
 ![image](https://cdn.discordapp.com/attachments/1050591171921072130/1052498551319560202/image.png)

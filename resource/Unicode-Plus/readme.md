@@ -1,6 +1,7 @@
 ```diff
 + This is a subpack with a slider that can be set to 16,32,64 unicode size. +
 ```
+[glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1_Unicode_List.md)
 
 > <h2>Information</h2>
 ```info

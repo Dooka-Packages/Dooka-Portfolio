@@ -19,12 +19,4 @@ you select and are editing.
  `E0`  [glyph_E0 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E0/glyph_E0%20Unicode%20List.md)
  `A1`  [glyph_A1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_A1/glyph_A1%20Unicode%20List.md)
 --- ---
-> <h2>How To Use</h2>
 
-### Why is my pack not updating when i add new Unicode?
-```info
-Make sure to change the pack manifest UUID's only once when your transfering the pack into your
-"development_resource_pack" folder in the "com.mojang" folder. If there are still issues 
-with the pack not updating contact me on Discord @Dooka#6412.
-```
---- ---

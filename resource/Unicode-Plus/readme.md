@@ -16,6 +16,6 @@ selected, which you can use to test it out.
 ```
 
  `E1`  [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/glyph_E1%20Unicode%20List.md)
- `A1`  [glyph_2A Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/glyph_A1%20Unicode%20List.md)
+ `2A`  [glyph_2A Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/glyph_2A%20Unicode%20List.md)
 --- ---
 

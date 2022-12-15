@@ -1,6 +1,3 @@
-```diff
-+ This is a subpack with a slider that can be set to 16,32,64 unicode size. +
-```
 --- ---
 > <h2>Information</h2> 
 ```info

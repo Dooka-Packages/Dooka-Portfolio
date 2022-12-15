@@ -1,5 +1,5 @@
 > <h2>List Unicode - Glyph_E0</h2>
-> Test E1 Unicode by copying the Unicode hex symbole into chat depending on the In-Game image it displays. 
+> Test E0 Unicode by copying the Unicode hex symbole into chat depending on the In-Game image it displays. 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |
 |:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|:---------:|:-----------:|:---------:|
 | `1A`      |            |           | `2A`      |            |           | `3A`      |    None     |           |

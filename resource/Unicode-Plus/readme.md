@@ -2,7 +2,7 @@
 + This is a subpack with a slider that can be set to 16,32,64 unicode size. +
 ```
 
-> <h2>Information</h2>
+> <h2>Information</h2> 
 ```info
 Unicode Plus is a template pack that's designed to help you organize and add your own Unicode characters to MCBE. 
 Unicode is a character encoding standard that's used to display images or hex images, such as "". These characters 
@@ -11,6 +11,7 @@ be helpful, but could also be a hassle to use. I have decided to update and orga
 they are usable in chat or in packs.
 ```
 > [glyph_E1 Unicode List](https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_E1/glyph_E1%20Unicode%20List.md)
+> [glyph_A1 Unicode List]https://github.com/Dooka-Packages/Dooka-Portfolio/blob/main/resource/Unicode-Plus/subpacks/glyph_A1/glyph_A1%20Unicode%20List.md)
 
 > <h2>How To Use</h2>
 #### Find the Glyph Textures.

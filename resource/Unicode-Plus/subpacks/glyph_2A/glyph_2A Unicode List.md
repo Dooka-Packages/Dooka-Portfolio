@@ -1,3 +1,4 @@
+![image](https://media.discordapp.net/attachments/1050591171921072130/1053101827278766120/image.png)
 > <h2>List Unicode - Glyph_2A</h2>
 > Test A1 Unicode by copying the Unicode hex symbole into chat depending on the In-Game image it displays. 
 |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |   Name    |   Unicode   |  In game  |

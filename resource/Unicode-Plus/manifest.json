@@ -3,15 +3,15 @@
   "header": {
     "name": "§fUnicode Plus §7RP",
     "description": "§7Dooka-Packages",
-    "uuid": "920c80a5-baa8-4163-8fba-82b61a19d943",
+    "uuid": "2278b6a7-76f2-4dc6-9730-50d1aeb24549",
     "version": [1, 0, 0],
     "min_engine_version": [1, 19, 40]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "c4fca98d-c5a1-44b8-a967-b3941f764299",
-      "version": [0, 0, 1]
+      "uuid": "2542a3f0-4252-4439-be5b-13be2258f454",
+      "version": [1, 0, 0]
     } 
   ],
   "subpacks": [

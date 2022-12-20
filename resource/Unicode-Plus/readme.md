@@ -8,7 +8,7 @@ be helpful, but could also be a hassle to use. I have decided to update and orga
 they are usable in chat or in packs.
 ```
 ```diff
-- Access the Pack contents in the com.mojang folder. Make sure the pack is moved to the "development_resource_pack" -
+- Access the Pack contents in your com.mojang folder. Make sure the pack is moved to your "development_resource_pack" -
 - folder if any edits are done to the glyph textures. If you need help contact me @Discord - Dooka#6412 :). -
 ```
 --- ---

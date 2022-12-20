@@ -2,7 +2,7 @@
 
 --- ---
 ```info
-A Collection of Dooka's Open Source MCBE Packs and Addons. Delow are instruction on how 
+A Collection of Dooka's Open Source MCBE Packs and Addons. Below are instruction on how 
 to download and install Dooka-Packages.  
 ```
 ## How to Install Latest Portfolio Content

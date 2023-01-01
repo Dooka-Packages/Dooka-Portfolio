@@ -66,6 +66,6 @@ For more commands or to display scores on your sidebar look below.
 **NOTE** 
 
 ```diff 
-- This pack should not be replicated in any way. DONT sell this pack in any way. This debug ui addon can be added to your own pack. Make sure to add credit in the files or in your world! -
+- This pack should not be replicated in any way. DONT sell this pack in any way. This sidebar logo addon can be added to your own pack. Make sure to add credit in the files or in your world! -
 ```
 Replace UUIDs in the packs ^manifest.json^ UUID Generator Link - https://www.uuidgenerator.net/
